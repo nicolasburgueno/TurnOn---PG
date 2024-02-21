@@ -1,0 +1,38 @@
+@import "./Variables/var.css";
+
+.divPrincipalF{
+    margin-top: -22px;
+    background-color: rgb(255, 255, 255);
+    height: 25vw;
+    font-family: 'Be Vietnam Pro', sans-serif;
+    }
+    
+.h1como{
+    padding-top: 30px;
+    font-weight: bold;
+    text-align:left;
+    font-size: 2.1rem;
+    margin-top: 2rem;
+    margin-left: 5.1rem;
+    color:rgb(177, 177, 177);
+    }
+    
+.h2como{
+    padding-top: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 3.6rem;
+    width: 45vw;
+    font-size: 20px;
+    text-align:left;
+    }
+    
+.imgcomo{
+    height: 20vw;
+    margin-top: -500px;
+    padding-left: 50px;
+    padding-left: 50px;
+    margin-left: 1100px;
+   }

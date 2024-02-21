@@ -1,0 +1,115 @@
+@import "./Variables/var.css";
+
+.div-father-features{
+    background-image: url('../Assets/Images/Apple\ green-wave.svg');
+    width: 100vw;
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.h1-features{
+    padding-top: 20px;
+    font-weight: bold;
+    text-align:left;
+    font-size: 2.1rem;
+    margin-top: 4rem;
+    margin-left: 5.1rem;
+    color: rgb(177, 177, 177);
+
+}
+
+.Wraper{
+    display: grid;
+    grid-template-columns:repeat(5, 1fr);
+    grid-gap: 4px;
+    margin-left: 45px;
+    margin-right: 15px;
+    font-family: 'Be Vietnam Pro', sans-serif;
+    margin-top: 80px;
+    align-content: center;
+       
+}
+
+.div-features-1{
+    background-color: var(--colorMikatoYellow);
+    border-radius: 10px;
+    width: 300px;
+    text-align: center;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    box-shadow: 7px 5px 7px hsla(0, 0%, 51%, 0.438);
+
+}
+
+.div-features-2{
+    background-color: var(--colorMikatoYellow);
+    border-radius: 10px;
+    width: 300px;
+    text-align: center;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    box-shadow: 7px 5px 7px hsla(0, 0%, 51%, 0.438);
+
+}
+
+.div-features-3{
+    background-color: var(--colorMikatoYellow);
+    border-radius: 10px;
+    width: 300px;
+    text-align: center;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    box-shadow: 7px 5px 7px hsla(0, 0%, 51%, 0.438);
+
+}
+
+.div-features-4{
+    background-color: var(--colorMikatoYellow);
+    border-radius: 10px;
+    width: 300px;
+    text-align: center;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    box-shadow: 7px 5px 7px hsla(113, 10%, 35%, 0.438);
+
+}
+
+.div-features-5{
+    background-color: var(--colorMikatoYellow);
+    border-radius: 10px;
+    width: 300px;
+    text-align: center;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    box-shadow: 7px 5px 7px hsla(110, 95%, 17%, 0.438);
+
+}
+
+.title-features{
+    font-size: 18px;
+    color: #ffffff;
+  
+
+}
+
+.tex-freatures{
+    font-size: 15px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 10px;
+    color: #ffffff;
+
+}
